@@ -1,0 +1,24 @@
+{
+  "name": "WXWeather",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "app.js",
+  "dependencies": {
+    "redis": "^0.12.1",
+    "request": "^2.51.0",
+    "wx-connect": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "1"
+  },
+  "keywords": [
+    "wx"
+  ],
+  "author": "xiatian",
+  "license": "MIT"
+}
