@@ -1,5 +1,16 @@
-# 微信公众平台测试号：天气查询
-本案例使用 _wx-connect_ 框架开发的微信公众平台接口
+# WXWeather — 微信公众平台测试号：天气查询
+
+本案例使用 [**wx-connect**](https://github.com/xiatian/wx-connect) 框架开发的微信公众平台接口，演示如何使用微信公众号和开发者接口实现一个天气查询功能。
+
+## 系统依赖
+1. [nodejs](http://www.nodejs.org/)
+2. [redis服务器](http://www.redis.io/)
+
+## 运行
+```javascript
+node app.js
+```
+> 应用默认运行在本机80端口，请保证该端口未被占用
 
 
 ## 扫描以下二维码体验实例：
