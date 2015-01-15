@@ -12,7 +12,10 @@ node app.js
 ```
 > 应用默认运行在本机80端口，请保证该端口未被占用
 
+## 联系
+有任何疑问可以加入QQ群讨论，群号：184191092
 
-## 扫描以下二维码体验实例：
+
+## 微信扫描以下二维码体验实例：
 
 ![公众号](http://mmbiz.qpic.cn/mmbiz/hVjoeHtdYUtbj8EZZfIiciaWgsGGRgwxHuDE6CeRh74xuUHprZAPPwXccsUDZfKAd4ylDdX4cP7vapxRqaqOF7Rw/0)
